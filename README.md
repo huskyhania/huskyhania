@@ -9,6 +9,19 @@ This is a moment when I leave **C** (is it farewell or is it goodbye?) and focus
 
 ---
 
+### I've also just started learning Python!
+👉 Visit **[100 Days of Code - Python](https://github.com/huskyhania/100-Days-of-Code-Python)** - You can see my progress with The Complete Python Pro Bootcamp by Angela Yu.
+
+It's not much (yet!) but it's honest work 😅
+
+👉 Check out **[Wordle Solver and co](https://github.com/huskyhania/WordleSolver)** - A couple of cool, small programs based on the Wordle game:
+
+• 3 different solving programs  
+• terminal-based Wordle implementation  
+• auto-solver  
+
+---
+
 ### Interested in what I did in C?
 
 👉 Have a look at **[Philosophers](https://github.com/huskyhania/philosophers)** — I implemented two different solutions to the classic *Dining Philosophers* problem:  
@@ -16,7 +29,6 @@ This is a moment when I leave **C** (is it farewell or is it goodbye?) and focus
 • one using processes and semaphores  
 
 👉 Wanna see something really pretty? Go to **[Fract-ol](https://github.com/huskyhania/fractol)** — A small graphical project that lets you explore the beauty of **Mandelbrot**, **Julia**, and **Burning Ship** fractals, in all colors of the rainbow 🌈 or black and white.
-
 
 <!--
 **huskyhania/huskyhania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
