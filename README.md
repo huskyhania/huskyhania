@@ -24,6 +24,8 @@ It's not much (yet!) but it's honest work 😅
 
 ### Interested in what I did in C?
 
+👉 My biggest achievement AKA **[Minishell](https://github.com/huskyhania/minishell)** - A thorough implementation of a command interpreter that closely mimics the behaviour of Bash. It was a deep dive into processes and system calls that taught me more than any other project.
+
 👉 Have a look at **[Philosophers](https://github.com/huskyhania/philosophers)** — I implemented two different solutions to the classic *Dining Philosophers* problem:  
 • one using threads and mutexes  
 • one using processes and semaphores  
