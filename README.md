@@ -2,8 +2,10 @@
 
 My name is **Hania** and I'm a programming student at **Hive Helsinki** :wave:
 
-I'm currently working on the **Webserv**, a 42 curriculum project, where you build a web server from scratch.  
-This is a moment when I leave **C** (is it farewell or is it goodbye?) and focus on **C++** — quite an adjustment, but a great learning opportunity!
+I'm currently wraping up my school projects.  
+This is a moment when I leave **C** and **C++** (is it farewell or is it goodbye?) — and start thinking what's next. 
+
+👉 Look at a web server implementation, done from scratch in C++ **[Webserver](https://github.com/huskyhania/42-webserv)** 
 
 👉 To see my C++ efforts, visit the [42-CPP repository](https://github.com/huskyhania/42-CPPModules)
 
